@@ -8,18 +8,6 @@ This is a **Python project** that:
 
 ---
 
-## 📂 Project Structure
-
-password-cracker-checker/
-├── main.py # Project launcher
-├── strength_checker.py # Checks password strength
-├── hasher.py # Hashes passwords using SHA-256 or MD5
-├── cracker.py # Cracks password hashes using a wordlist
-└── wordlists/
-└── rockyou_sample.txt # Sample password dictionary
-
----
-
 ## 🚀 Features
 
 - ✅ Password strength scoring: based on length, uppercase, digits, symbols
